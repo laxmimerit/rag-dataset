@@ -1,0 +1,24 @@
+**Page:** 109
+
+| Total                                 | $ 66,361          | $ 47,910                                                       | $ 12,085                                         | $ 101                                            |
+<!-- page break -->
+
+|                                       |                   | Fair Value Measurement at Reporting Date Using                 | Fair Value Measurement at Reporting Date Using   | Fair Value Measurement at Reporting Date Using   |
+|---------------------------------------|-------------------|----------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Description                           | December 31, 2022 | Quoted Prices in Active Markets for Identical Assets (Level 1) | Significant Other Observable Inputs (Level 2)    | Significant Unobservable Inputs (Level 3)        |
+| Cash                                  | $ 6,176           |                                                                |                                                  |                                                  |
+| Cash equivalents:                     |                   |                                                                |                                                  |                                                  |
+| Money market funds                    | 8,305             | $ 8,305                                                        | $ -                                              | $ -                                              |
+| U.S. government and agency securities | 16                | 16                                                             | -                                                | -                                                |
+| Time deposits                         | 156               | -                                                              | 156                                              | -                                                |
+| Corporate debt securities             | 28                | -                                                              | 28                                               | -                                                |
+| Total cash and cash equivalents       | 14,681            | 8,321                                                          | 184                                              | -                                                |
+| Marketable securities:                |                   |                                                                |                                                  |                                                  |
+| U.S. government securities            | 8,708             | 8,708                                                          | -                                                | -                                                |
+| U.S. government agency securities     | 4,989             | 4,989                                                          | -                                                | -                                                |
+| Corporate debt securities             | 12,335            | -                                                              | 12,335                                           | -                                                |
+| Marketable equity securities          | 25                | 25                                                             | -                                                | -                                                |
+| Total marketable securities           | 26,057            | 13,722                                                         | 12,335                                           | -                                                |
+| Restricted cash equivalents           | 583               | 583                                                            | -                                                | -                                                |
+| Other assets                          | 157               | -                                                              | -                                                | 157                                              |
+| Total                                 | $ 41,478          | $ 22,626                                                       | $ 12,519                                         | $ 157                                            |

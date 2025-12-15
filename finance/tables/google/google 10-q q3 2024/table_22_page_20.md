@@ -1,0 +1,26 @@
+**Page:** 20
+
+| Total gains (losses)                                             | $ (1)                              | $ (242)                            | $ 17                               | $ (33)                             |
+<!-- page break -->
+
+|                                                                  | Nine Months Ended September 30,   | Nine Months Ended September 30,   | Nine Months Ended September 30,   | Nine Months Ended September 30,   |
+|------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|                                                                  | 2023                              | 2023                              | 2024                              | 2024                              |
+|                                                                  | Revenues                          | Other income (expense), net       | Revenues                          | Other income (expense), net       |
+| Total amounts included in the Consolidated Statements of Income  | $ 221,084                         | $ 709                             | $ 253,549                         | $ 6,154                           |
+| Effect of cash flow hedges:                                      |                                   |                                   |                                   |                                   |
+| Foreign exchange contracts                                       |                                   |                                   |                                   |                                   |
+| Amount of gains (losses) reclassified from AOCI to income        | $ 71                              | $ 0                               | $ 174                             | $ 0                               |
+| Amount excluded from the assessment of effectiveness (amortized) | 16                                | 0                                 | 17                                | 0                                 |
+| Effect of fair value hedges:                                     |                                   |                                   |                                   |                                   |
+| Foreign exchange contracts                                       |                                   |                                   |                                   |                                   |
+| Hedged items                                                     | 0                                 | 6                                 | 0                                 | 44                                |
+| Derivatives designated as hedging instruments                    | 0                                 | (6)                               | 0                                 | (45)                              |
+| Amount excluded from the assessment of effectiveness             | 0                                 | 12                                | 0                                 | 10                                |
+| Effect of net investment hedges:                                 |                                   |                                   |                                   |                                   |
+| Foreign exchange contracts                                       |                                   |                                   |                                   |                                   |
+| Amount excluded from the assessment of effectiveness             | 0                                 | 136                               | 0                                 | 114                               |
+| Effect of non designated hedges:                                 |                                   |                                   |                                   |                                   |
+| Foreign exchange contracts                                       | 0                                 | (186)                             | 0                                 | (53)                              |
+| Other contracts                                                  | 0                                 | 82                                | 0                                 | 70                                |
+| Total gains (losses)                                             | $ 87                              | $ 44                              | $ 191                             | $ 140                             |

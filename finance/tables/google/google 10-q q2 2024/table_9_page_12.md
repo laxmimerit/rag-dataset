@@ -1,0 +1,14 @@
+**Page:** 12
+
+| Total revenues                               | $ 74,604                      | $ 84,742                      | $ 144,391                   | $ 165,281                   |
+The following table presents revenues disaggregated by geography, based on the addresses of our customers (in millions):
+
+|                        | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Three Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   | Six Months Ended June 30,   |
+|------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|                        | 2023                          | 2023                          | 2024                          | 2024                          | 2023                        | 2023                        | 2024                        | 2024                        |
+| United States          | $ 35,073                      | 47%                           | $ 41,196                      | 49%                           | $ 67,937                    | 47%                         | $ 79,933                    | 48%                         |
+| EMEA (1)               | 22,289                        | 30                            | 24,683                        | 29                            | 43,367                      | 30                          | 48,471                      | 29                          |
+| APAC (1)               | 12,728                        | 17                            | 13,823                        | 16                            | 24,409                      | 17                          | 27,112                      | 17                          |
+| Other Americas (1)     | 4,511                         | 6                             | 4,938                         | 6                             | 8,591                       | 6                           | 9,591                       | 6                           |
+| Hedging gains (losses) | 3                             | 0                             | 102                           | 0                             | 87                          | 0                           | 174                         | 0                           |
+| Total revenues         | $ 74,604                      | 100%                          | $ 84,742                      | 100%                          | $ 144,391                   | 100%                        | $ 165,281                   | 100%                        |

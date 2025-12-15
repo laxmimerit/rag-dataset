@@ -1,0 +1,26 @@
+**Page:** 20
+
+| Total gains (losses)                                             | $ 4                                   | $ 197                                 | $ 102                                 | $ 38                                  |
+<!-- page break -->
+
+|                                                                  | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   | Gains (Losses) Recognized in Income   |
+|------------------------------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|                                                                  | 2023                                  | 2023                                  | 2024                                  | 2024                                  |
+|                                                                  | Revenues                              | Other income (expense), net           | Revenues                              | Other income (expense), net           |
+| Total amounts in the Consolidated Statements of Income           | $ 144,391                             | $ 855                                 | $ 165,281                             | $ 2,969                               |
+| Effect of cash flow hedges:                                      |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Amount of gains (losses) reclassified from AOCI to income        | $ 86                                  | $ 0                                   | $ 180                                 | $ 0                                   |
+| Amount excluded from the assessment of effectiveness (amortized) | 2                                     | 0                                     | (6)                                   | 0                                     |
+| Effect of fair value hedges:                                     |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Hedged items                                                     | 0                                     | 54                                    | 0                                     | (25)                                  |
+| Derivatives designated as hedging instruments                    | 0                                     | (54)                                  | 0                                     | 24                                    |
+| Amount excluded from the assessment of effectiveness             | 0                                     | 10                                    | 0                                     | 6                                     |
+| Effect of net investment hedges:                                 |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       |                                       |                                       |                                       |                                       |
+| Amount excluded from the assessment of effectiveness             | 0                                     | 123                                   | 0                                     | 67                                    |
+| Effect of non designated hedges:                                 |                                       |                                       |                                       |                                       |
+| Foreign exchange contracts                                       | 0                                     | 154                                   | 0                                     | (1)                                   |
+| Other contracts                                                  | 0                                     | (1)                                   | 0                                     | 102                                   |
+| Total gains (losses)                                             | $ 88                                  | $ 286                                 | $ 174                                 | $ 173                                 |
